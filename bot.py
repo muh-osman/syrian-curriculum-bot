@@ -1,8 +1,11 @@
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, ReplyKeyboardRemove, KeyboardButton
-from random import randint
+from decouple import config
 
-bot = Bot(token='5664115796:AAHIfzzVlzqGiiB9ECSj_ajQv2CCA-XQxp8')
+
+BOT_TOKEN = config('BOT_TOKEN')
+bot = Bot(BOT_TOKEN)
+
 dp = Dispatcher(bot)
 
 
