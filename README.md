@@ -1,8 +1,8 @@
 # syrian-curriculum-bot
 
 Install:
-### `npm install aiogram`
-### `npm install decouple`
+### `pip install aiogram`
+### `pip install decouple`
 
 <br/>
 <br/>
