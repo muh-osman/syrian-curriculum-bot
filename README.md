@@ -6,7 +6,6 @@ Install:
 
 <br/>
 <br/>
-<br/>
 
 Create `.env` file:\
 BOT_TOKEN = XXX
