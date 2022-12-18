@@ -7,7 +7,7 @@ Install:
 <br/>
 <br/>
 
-Change `.env` file:\
+Edit `.env` file:\
 BOT_TOKEN = PUT YOUR TOKEN HERE
 
 <br/>
